@@ -1,7 +1,7 @@
 const express = require('express')
 const consign = require('consign')
 
-module.export = () => {
+module.exports = () => {
   const app = express()
 
   consign()
