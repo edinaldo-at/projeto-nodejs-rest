@@ -12,3 +12,14 @@
 
 ```$ npm install consign```
 
+#Instalação do body-parser
+
+```$ npm install body-parser```
+
+#Instalação do body-parser
+
+```$ npm install mysql```
+
+#Instalação do moment
+```npm install moment```
+
